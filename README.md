@@ -24,7 +24,7 @@ Dashboards, Pivot Tables, and business analysis exercises.
 
 My notes are more than simple explanations. They capture my learning journey, thought process, problem-solving approach, and personal reflections as I work through new concepts and challenges.
 
-### Learning Resources
+#### Learning Resources
 Many of the exercises and projects in this repository are inspired by online courses, tutorials, and content creators who have helped me learn data analytics.
 
 🔗 https://www.youtube.com/@AlexTheAnalyst
