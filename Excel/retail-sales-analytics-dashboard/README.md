@@ -17,7 +17,6 @@ The dashboard enables users to explore sales performance through dynamic filters
 ## Business Questions
 
 This dashboard helps answer questions such as:
-
 - Which product categories generate the most sales?
 - How do sales and revenue change over time?
 - What are the busiest sales hours?
@@ -64,6 +63,11 @@ This dashboard helps answer questions such as:
 ## Dashboard Preview
 
 <img src="Dashboard.png" width="900">
+
+## Dataset
+
+> This project uses a simulated retail sales dataset created as part of a database modeling and business analytics project.
+> The dataset includes customer, product, category, sales, and sales item information designed for reporting and dashboard development.
 
 
 
