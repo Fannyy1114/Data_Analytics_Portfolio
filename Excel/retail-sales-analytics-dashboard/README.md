@@ -64,8 +64,13 @@ This dashboard helps answer questions such as:
 
 <img src="Dashboard.png" width="900">
 
-## Dataset
+## What I Learned
+- Built an interactive dashboard using Excel business intelligence tools.
+- Applied Power Query to transform and prepare data.
+- Developed KPI reports using Power Pivot and PivotTables.
+- Designed interactive reports using slicers and timelines.
 
+## Dataset
 > This project uses a simulated retail sales dataset created as part of a database modeling and business analytics project.
 > The dataset includes customer, product, category, sales, and sales item information designed for reporting and dashboard development.
 
