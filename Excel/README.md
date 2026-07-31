@@ -14,13 +14,13 @@ The content includes:
 ### Retail Sales Analytics Dashboard
 An interactive dashboard built using Excel, Power Query, Power Pivot, and PivotTables to analyze retail sales performance and business KPIs.
 
-### DataCamp
+### - DataCamp
 Course exercises, notes, and practice files completed through DataCamp to strengthen Excel and data analytics skills.
 
-### BCIT Coursework
+### - BCIT Coursework
 Assignments and exercises completed as part of the Business Information Technology Management program at BCIT.
 
-### Personal Practice
+### - Personal Practice
 Self-directed Excel practice, including formulas, PivotTables, data cleaning, and dashboard development.
 
 ---
