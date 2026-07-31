@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Welcome to my data analytics learning portfolio. This is an ongoing learning portfolio and will continue to grow as I develop my skills in data analytics.
+Welcome to my data analytics portfolio. This is an ongoing learning portfolio and will continue to grow as I develop my skills in data analytics.
 
 This repository documents my hands-on journey in data analytics through SQL, Python, Excel, and visualization projects.
 
